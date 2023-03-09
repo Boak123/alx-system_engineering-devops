@@ -1,0 +1,2 @@
+#!/bn/bash
+chgrp school hello
